@@ -1,4 +1,4 @@
-# Hi there, I'm Miko (Aenzari) 👋
+# Hi there, I'm Michael Angelou C. Quinit (Aenzari) 👋
 
 > **4th-Year IT Student | Database Major | AI-Assisted Full-Stack Developer** 🚀  
 > I specialize in architecting scalable database schemas, integrating modern tech stacks, and deploying seamless, mobile-first web applications.
@@ -67,8 +67,6 @@ Here is the technology I use to bring my systems to life and deploy them to the 
     I am actively scaling **Kusyna** into a fully-fledged digital culinary hub and kitchen management system. Currently developing both the **web application** and a companion **mobile application** to create a seamless, cross-platform experience. It is designed to handle recipe curation, ingredient tracking, and digital menu rendering for home cooks and small food vendors.
 
 ---
-
-### 📊 GitHub Activity
 
 ### 📊 GitHub Activity
 
