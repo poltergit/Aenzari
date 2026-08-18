@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="github_profile.jpg" alt="Hello World Header" width="100%" />
+  <img src="github_profile.jpg" alt="Hello World Header" width="100%" height="50%" />
 </div>
 
 # Hi there, I'm Michael Angelou C. Quinit (Aenzari) 👋
@@ -72,7 +72,7 @@ Here is the technology I use to bring my systems to life and deploy them to the 
 ### 🏗️ In Development: Startup Focus
 
 <div align="center">
-  <img src="kusy-banner.jpg" alt="Kusyna Startup Banner" width="100%" />
+  <img src="kusy-banner.png" alt="Kusyna Startup Banner" width="100%" />
 </div>
 
 <br/>
