@@ -7,12 +7,12 @@
 
 ### 👨‍💻 About Me & My Workflow
 
-*   🎓 **Academic Core:** Currently a 4th-year Information Technology student majoring in **Database Management**. I build apps from the ground up, starting with how data is structured, queried, and protected.
+*   🎓 **Academic Core:** Currently a 4th-year Information Technology student majoring in **Database Systems**. I build apps from the ground up, starting with how data is structured, queried, and protected.
 *   🤖 **AI-Assisted Programmer:** I heavily leverage AI tools in my daily workflow to rapidly prototype architectures, optimize complex code logic, and accelerate my development cycles. 
 *   🌐 **System Deployment:** I don't just build locally; I have hands-on experience taking full-stack projects from a local environment all the way to live production deployment.
 *   💻 **Current Focus:** Expanding my frontend capabilities by diving deep into **React**, while continuing to build robust backends with Node.js and **Supabase**.
-*   ⌨️ **High-Speed Execution:** I type at sustained speeds of **100+ WPM**, which keeps me in the flow state during heavy coding and documentation sessions.
-*   🎮 **Off the Keyboard:** When I am not pushing commits, I am usually playing football/futsal, lifting at the gym, or grinding competitive matches in Valorant, CODM, and Crossfire.
+*   ⌨️ **High-Speed Execution:** I type at sustained speeds of **95+ WPM**, which keeps me in the flow state during heavy coding and documentation sessions.
+*   🎮 **Off the Keyboard:** When I am not pushing commits, I am usually playing football/futsal, or grinding competitive matches in Mobile Legends.
 
 ---
 
@@ -40,38 +40,29 @@ Here is the technology I use to bring my systems to life and deploy them to the 
 ### 🚀 Highlighted Repositories & Capstone
 
 *   🏆 **[CareerConnect+](https://github.com/Aenzari/CareerConnect-)** *(Thesis / Capstone Project)*  
-    * **Target & Content:** A centralized, comprehensive digital guidance and counseling platform built for educational institutions.
-    * **Service Offered:** Provides a private, secure portal for students to connect with counselors. Heavily relies on complex, optimized database schemas and detailed use-case documentation to handle sensitive student records efficiently.
+    * **Target & Content:** An all-in-one, localized career guidance hub built specifically for the academic context and professional needs of our student body.
+    * **Service Offered:** Provides a centralized dashboard that empowers students and counselors to collaborate seamlessly. It merges skills assessments, real-time regional job market data, and secure communication channels, backed by a centralized database designed to keep everyone on the same page.
 
 *   **[TheSafehouse](https://github.com/Aenzari/TheSafehouse)**  
-    * **Target & Content:** An all-in-one resource and operations management system tailored for an entertainment hub.
-    * **Service Offered:** Streamlines facility bookings, tracks real-time food orders, and manages administrative resources utilizing a flexible NoSQL database to handle rapid order requests.
+    * **Target & Content:** An all-in-one operations management system tailored for a hybrid computer cafe and "tambayan" lounge, designed to function as a seamless "Third Place" haven for gamers and friend groups.
+    * **Service Offered:** Streamlines dynamic zone reservations (PCs and Lounge areas) with automated conflict detection and session expirations, tracks real-time bistro orders with station-specific delivery options, and manages administrative inventory using a flexible NoSQL database to handle rapid concurrent requests and temporal data.
 
 *   **[UI-SMS](https://github.com/Aenzari/UI-SMS)**  
-    * **Target & Content:** A streamlined Student Management System (SMS) with a heavy emphasis on User Interface (UI).
-    * **Service Offered:** Upgrades the traditional academic portal experience by offering a responsive, mobile-first dashboard for tracking grades, schedules, and academic standing.
+    * **Target & Content:** A real-time, centralized Sports Management System (SMS) built on a high-performance NoSQL architecture.
+    * **Service Offered:** Modernizes university intramurals by offering a responsive dashboard for managing team registrations, broadcasting live tournament leaderboards, and automating equipment checkouts using QR Digital Passes.
 
 *   **[EpiGraph](https://github.com/Aenzari/EpiGraph)**  
-    * **Target & Content:** A modern content platform focused on organizing and curating text-based data, notes, and literature.
-    * **Service Offered:** Features a smooth, Tailwind-powered frontend that allows users to seamlessly catalog, visualize, and interact with written content.
+    * **Target & Content:** A centralized epidemiological command dashboard focused on mapping complex, N-degree exposure chains to track both direct human-to-human contacts and indirect environmental transmission (invisible spread).
+    * **Service Offered:** Features a dynamic, Tailwind and Vis.js-powered interface backed by a Neo4j graph engine, empowering health officials to seamlessly log exposure vectors, calculate shortest transmission paths, visualize super-spreader clusters, and enforce strict data compliance.
 
 *   **[WeCats](https://github.com/Aenzari/WeCats)**  
-    * **Target & Content:** A community-driven web application targeted at feline enthusiasts and pet adoption advocates.
-    * **Service Offered:** Provides a platform for user-generated profiles and a responsive gallery layout for showcasing pets in need of a home.
+    * **Target & Content:** An exclusive social networking and community platform designed specifically for students of MSU-IIT (Mindanao State University - Iligan Institute of Technology).
+    * **Service Offered:** Provides a centralized, student-only forum for sharing thoughts, posting academic updates, and building connections. The platform ensures exclusivity by strictly requiring an active @g.msuiit.edu.ph email for registration and features real-time posts, threaded replies, and student-specific profile management (including ID numbers, year levels, and academic programs) powered by a Supabase backend.
 
 ---
 
 ### 🏗️ In Development: Startup Focus
 
-*   🔥 **Kusyna** *(Cross-Platform Culinary Startup)*  
-    I am actively scaling **Kusyna** into a fully-fledged digital culinary hub and kitchen management system. Currently developing both the **web application** and a companion **mobile application** to create a seamless, cross-platform experience. It is designed to handle recipe curation, ingredient tracking, and digital menu rendering for home cooks and small food vendors.
+*   🔥 **Kusyna** *(Community-Driven Food Startup & App)*  
+I am actively scaling Kusy from a digital craving-tracker into a fully-fledged food business powered by custom technology. Currently developing a cross-platform web and mobile application, the system is designed to capture real-time student food requests and translate them into a dynamic, physical menu. By integrating digital order management with real-world food service, Kusy ensures we are always cooking exactly what the campus community wants.
 
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aenzari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&count_private=true" alt="Aenzari's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aenzari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</div>
