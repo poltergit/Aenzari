@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="github_profile.jpg" alt="Hello World Header" width="100%" height="5%" />
+  <img src="github_profile.jpg" alt="Hello World Header" height="300"/>
 </div>
 
 # Hi there, I'm Michael Angelou C. Quinit (Aenzari) 👋
