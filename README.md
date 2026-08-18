@@ -72,7 +72,7 @@ Here is the technology I use to bring my systems to life and deploy them to the 
 ### 🏗️ In Development: Startup Focus
 
 <div align="center">
-  <img src="kusy-banner.png" alt="Kusyna Startup Banner" width="100%" />
+  <img src="kusy-banner.png" alt="Kusyna Startup Banner" width="500" height="500"/>
 </div>
 
 <br/>
