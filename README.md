@@ -5,19 +5,9 @@
 
 <div align="center">
 
-  <img src="github_profile.jpg" alt="Aenzari — Hello World" width="100%" />
-
-  <br />
-
-  <a href="https://github.com/Aenzari">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=35&lines=Full-Stack+Development;Database-Driven+Applications;Building+Useful+Software%2C+End+to+End" alt="Animated introduction" />
-  </a>
-
-  <p>
-    <strong>Michael Angelou C. Quinit</strong> · <code>@Aenzari</code>
-    <br />
-    Information Technology Student · Database Systems
-  </p>
+  <h1>Michael Angelou C. Quinit</h1>
+  <p><strong>Full-Stack Developer · Database Systems</strong></p>
+  <p>Building practical, data-driven applications with thoughtful engineering and user experience.</p>
 
   <p>
     <a href="https://github.com/Aenzari?tab=repositories">Repositories</a>
