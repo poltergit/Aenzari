@@ -106,12 +106,12 @@ The goal is to make the digital experience useful to the business—not technolo
 ## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aenzari&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub account statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aenzari&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+  <img src="https://raw.githubusercontent.com/Aenzari/Aenzari/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aenzari&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aenzari&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub account statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aenzari&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
 </div>
 
 ## Connect
