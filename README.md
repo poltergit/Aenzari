@@ -1,89 +1,132 @@
+<!--
+  Aenzari / GitHub Profile README
+  Keep this profile focused on real work, clear engineering interests, and verifiable projects.
+-->
+
 <div align="center">
-  <img src="github_profile.jpg" alt="Hello World Header" height="300" width="1000"/>
+
+  <img src="github_profile.jpg" alt="Aenzari — Hello World" width="100%" />
+
+  <br />
+
+  <a href="https://github.com/Aenzari">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=35&lines=Full-Stack+Development;Database-Driven+Applications;Building+Useful+Software%2C+End+to+End" alt="Animated introduction" />
+  </a>
+
+  <p>
+    <strong>Michael Angelou C. Quinit</strong> · <code>@Aenzari</code>
+    <br />
+    Information Technology Student · Database Systems
+  </p>
+
+  <p>
+    <a href="https://github.com/Aenzari?tab=repositories">Repositories</a>
+    ·
+    <a href="https://github.com/Aenzari?tab=projects">Projects</a>
+    ·
+    <a href="mailto:YOUR_EMAIL">Email</a>
+  </p>
+
 </div>
 
-# Hi there, I'm Michael Angelou C. Quinit (Aenzari) 👋
-
-> **4th-Year IT Student | Database Major | AI-Assisted Full-Stack Developer** 🚀
-> I specialize in architecting scalable database schemas, integrating modern tech stacks, and deploying seamless, mobile-first web applications.
-
 ---
 
-### 👨‍💻 About Me & My Workflow
+## Profile
 
-<img src="__.jpg" align="right" width="200" alt="Mascot" />
+I build database-driven web applications, with an interest in full-stack engineering, system design, and turning practical problems into usable software.
 
-*   🎓 **Academic Core:** Currently a 4th-year Information Technology student majoring in **Database Systems**. I build apps from the ground up, starting with how data is structured, queried, and protected.
-*   🤖 **AI-Assisted Programmer:** I heavily leverage AI tools in my daily workflow to rapidly prototype architectures, optimize complex code logic, and accelerate my development cycles.
-*   🌐 **System Deployment:** I don't just build locally; I have hands-on experience taking full-stack projects from a local environment all the way to live production deployment.
-*   💻 **Current Focus:** Expanding my frontend capabilities by diving deep into **React**, while continuing to build robust backends with Node.js and **Supabase**.
-*   ⌨️ **High-Speed Execution:** I type at sustained speeds of **95+ WPM**, which keeps me in the flow state during heavy coding and documentation sessions.
-*   🎮 **Off the Keyboard:** When I am not pushing commits, I am usually playing football/futsal, or grinding competitive matches in Mobile Legends.
+My work spans interface development, backend integration, data modeling, and deployment. I enjoy understanding how the pieces fit together—not just making a screen look finished, but considering the data, workflows, and constraints behind it.
 
-<br clear="both"/>
+- **Currently exploring:** React and stronger frontend architecture.
+- **Backend & data:** Node.js, Express, Supabase, MySQL, MongoDB, and database design.
+- **Building toward:** Maintainable, responsive applications with thoughtful user experience and reliable data flows.
+- **Working style:** I use AI-assisted tools for research, prototyping, and iteration, while reviewing and taking responsibility for the code and decisions.
+- **Beyond development:** Football, futsal, and competitive gaming.
 
----
+## Technical Toolkit
 
-### 🛠️ Tech Stack & Arsenal
+The tools below reflect technologies I have worked with or am actively learning. My strongest interest is in connecting the frontend, application logic, and data layer into a coherent product.
 
-Here is the technology I use to bring my systems to life and deploy them to the web:
+| Area | Technologies |
+|---|---|
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
+| **Databases & BaaS** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **Design & collaboration** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
-#### **Frontend & UI/UX Design**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## Selected Projects
 
-#### **Backend, Database & BaaS**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+A selection of academic and independent projects that demonstrate my experience designing and building systems for different use cases.
 
----
+### CareerConnect+
+**Thesis / Capstone · Career guidance platform**
 
-### 🚀 Highlighted Repositories & Capstone
+A localized career guidance platform designed to connect students and counselors through a centralized experience. The project brings together skills assessments, regional job-market information, and communication workflows.
 
-*   🏆 **[CareerConnect+](https://github.com/Aenzari/CareerConnect-)** *(Thesis / Capstone Project)*
-    * **Target & Content:** An all-in-one, localized career guidance hub built specifically for the academic context and professional needs of our student body.
-    * **Service Offered:** Provides a centralized dashboard that empowers students and counselors to collaborate seamlessly. It merges skills assessments, real-time regional job market data, and secure communication channels, backed by a centralized database designed to keep everyone on the same page.
+[View repository →](https://github.com/Aenzari/CareerConnect-)
 
-*   **[TheSafehouse](https://github.com/Aenzari/TheSafehouse)** *(Final Project)*
-    * **Target & Content:** An all-in-one operations management system tailored for a hybrid computer cafe and "tambayan" lounge, designed to function as a seamless "Third Place" haven for gamers and friend groups.
-    * **Service Offered:** Streamlines dynamic zone reservations (PCs and Lounge areas) with automated conflict detection and session expirations, tracks real-time bistro orders with station-specific delivery options, and manages administrative inventory using a flexible NoSQL database to handle rapid concurrent requests and temporal data.
+### TheSafehouse
+**Final project · Computer café and lounge operations**
 
-*   **[UI-SMS](https://github.com/Aenzari/UI-SMS)** *(Capstone Project)*
-    * **Target & Content:** A real-time, centralized Sports Management System (SMS) built on a high-performance NoSQL architecture.
-    * **Service Offered:** Modernizes university intramurals by offering a responsive dashboard for managing team registrations, broadcasting live tournament leaderboards, and automating equipment checkouts using QR Digital Passes.
+An operations management system for a hybrid computer café and lounge. It covers zone reservations, booking conflict detection, session expiry, bistro orders, and inventory workflows.
 
-*   **[EpiGraph](https://github.com/Aenzari/EpiGraph)** *(Capstone Project)*
-    * **Target & Content:** A centralized epidemiological command dashboard focused on mapping complex, N-degree exposure chains to track both direct human-to-human contacts and indirect environmental transmission (invisible spread).
-    * **Service Offered:** Features a dynamic, Tailwind and Vis.js-powered interface backed by a Neo4j graph engine, empowering health officials to seamlessly log exposure vectors, calculate shortest transmission paths, visualize super-spreader clusters, and enforce strict data compliance.
+[View repository →](https://github.com/Aenzari/TheSafehouse)
 
-*   **[WeCats](https://github.com/Aenzari/WeCats)** *(Final Project)*
-    * **Target & Content:** An exclusive social networking and community platform designed specifically for students of MSU-IIT (Mindanao State University - Iligan Institute of Technology).
-    * **Service Offered:** Provides a centralized, student-only forum for sharing thoughts, posting academic updates, and building connections. The platform ensures exclusivity by strictly requiring an active @g.msuiit.edu.ph email for registration and features real-time posts, threaded replies, and student-specific profile management (including ID numbers, year levels, and academic programs) powered by a Supabase backend.
+### UI-SMS
+**Academic project · Sports management system**
 
----
+A sports management platform for university intramurals, focused on team registration, tournament standings, and equipment checkout through QR-based digital passes.
 
-### 🏗️ In Development: Startup Focus
+[View repository →](https://github.com/Aenzari/UI-SMS)
+
+### EpiGraph
+**Academic project · Epidemiological network visualization**
+
+A dashboard concept for exploring direct and indirect exposure relationships. It uses graph-based visualization to help represent transmission paths and clusters, with a Neo4j data layer.
+
+[View repository →](https://github.com/Aenzari/EpiGraph)
+
+### WeCats
+**Final project · Student community platform**
+
+A student-focused social platform for the MSU-IIT community. It includes university-email-based registration, posts, threaded replies, and student profile information, backed by Supabase.
+
+[View repository →](https://github.com/Aenzari/WeCats)
+
+## Building Now
 
 <div align="center">
-  <img src="kusy-banner.png" alt="Kusyna Startup Banner" width="500" height="500"/>
+  <img src="kusy-banner.png" alt="Kusyna startup banner" width="min(100%, 560px)" />
 </div>
 
-<br/>
+### Kusyna — Community-driven food startup
 
-*   🔥 **Kusyna (Community-Driven Food Startup & App)**
-    I am actively scaling Kusy from a digital craving-tracker into a fully-fledged food business powered by custom technology. Currently developing a cross-platform web and mobile application, the system is designed to capture real-time student food requests and translate them into a dynamic, physical menu. By integrating digital order management with real-world food service, Kusy ensures we are always cooking exactly what the campus community wants.
+I am developing Kusyna as a food venture supported by its own digital product. The application is intended to collect food requests from the student community and connect that demand to a changing menu and real-world order operations.
 
----
+The goal is to make the digital experience useful to the business—not technology for its own sake.
 
-### ⚡ Current Status
+## GitHub Activity
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=System+Deployment+Active...;Compiling+Database+Schemas...;Building+Kusyna+Web+%26+Mobile...;95%2B+WPM+Execution..." alt="Typing Animation" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aenzari&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub account statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aenzari&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aenzari&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</div>
+
+## Connect
+
+<div align="center">
+  <a href="https://github.com/Aenzari">
+    <img src="https://img.shields.io/badge/GitHub-Aenzari-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20touch-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<div align="center">
+  <sub>Interested in building useful products, learning from real engineering challenges, and collaborating with people who care about the details.</sub>
 </div>
