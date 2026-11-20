@@ -23,8 +23,6 @@
     <a href="https://github.com/Aenzari?tab=repositories">Repositories</a>
     ·
     <a href="https://github.com/Aenzari?tab=projects">Projects</a>
-    ·
-    <a href="mailto:YOUR_EMAIL">Email</a>
   </p>
 
 </div>
@@ -96,7 +94,7 @@ A student-focused social platform for the MSU-IIT community. It includes univers
 ## Building Now
 
 <div align="center">
-  <img src="kusy-banner.png" alt="Kusyna startup banner" width="min(100%, 560px)" />
+  <img src="kusy-banner.png" alt="Kusyna startup banner" width="560" />
 </div>
 
 ### Kusyna — Community-driven food startup
@@ -121,9 +119,6 @@ The goal is to make the digital experience useful to the business—not technolo
 <div align="center">
   <a href="https://github.com/Aenzari">
     <img src="https://img.shields.io/badge/GitHub-Aenzari-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20touch-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
